@@ -12,4 +12,4 @@
 8. **How many sales transactions were made in each city (`City`)?**
 9. **What are the peak sales hours based on the `Time` column? (Analyze sales distribution by hour)**
 10. **What is the average sales (`Total`) for each day of the week?**
-11. **Analyze revenue by product line
+11. **Analyze revenue by product line**
